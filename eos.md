@@ -10,7 +10,8 @@ image: img/eosseocard.webp
 
 Why /e/OS? Because Google Android is not privacy-friendly, the primary objective of Google is to profit from ads and tracking, which increases the risk for people journalists, minorities, and people who need privacy. Google is the largest threat when it comes to privacy, but they are a big part of the Android experience. Luckily we have designed a solution.
 
-![](img/animated_hi-res.webp)
+<img src="img/animated_hi-res.webp" max-width="450px" height="auto" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
 **Animated using After Effects**
 
 >We kept core Android features while incorporating custom solutions for missing Google apps. The result? It is a comfortable experience even for Android switchers. Users get familiar features with the freedom of privacy and control. This unique balance attracts users who value both.
