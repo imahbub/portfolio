@@ -54,19 +54,24 @@ After evaluating our team’s strength and size, we decided to take action to so
 
 For starters, we categorized user types from the survey and made a few kinds of user personas according to their needs and objectives with /e/OS. Let’s meet our personas:
 
+|User Riju|User Sidon| User Yunobo|
+|---|---|---|
+|<a href="img/userriju.webp"><img src="img/userriju.webp"></a>|<a href="img/usersidon.webp"><img src="img/usersidon.webp"></a>|<a href="img/useryunobo.webp"><img src="img/useryunobo.webp"></a>|
+_click to view image_
+
 We have created common points taken from the experience of the users. We have made the persona Riju as our proto persona analyzing the data and we have noted the emotional experience they have gone through.
 
 ### User Journey Map: /e/OS
 
-![](img/journeymap.webp)
-(click to view full resolution map)
+<a href="img/journeymap.webp"><img src="img/journeymap.webp"></a>
+_click to view image_
 
 ### Plotting a structure
 
 After discussing how we will start the design process, we first made an ideal structure that we want to build into /e/OS. This is also a navigation workflow we want to provide for the users to let them quickly get access to the most important parts of their workflow on /e/OS.
 
-![](img/workflow.webp)
-(click to view full resolution map)
+<a href="img/workflow.webp"><img src="img/workflow.webp"></a>
+_click to view image_
 
 ## Designing /e/OS
 
@@ -76,7 +81,7 @@ We started designing the UI and interaction designs after discussions, whiteboar
 
 ![](img/introeos.webp)
 
-We designed Bliss Launcher to solve bad home experiences in /e/OS. Bliss Launcher is the first thing users see when they unlock /e/OS. It’s their home, so we made it feel like it.
+> We designed Bliss Launcher to solve bad home experiences in /e/OS. Bliss Launcher is the first thing users see when they unlock /e/OS. It’s their home, so we made it feel like it.
 
 ![](img/bl_search.webp)
 **Bliss Launcher Universal Search Interface**
@@ -106,7 +111,7 @@ As part of our mission is to provide an integrated system, **App Lounge app inst
 
 ![](img/applounge_bannerIntro.webp)
 
-App Lounge is an important part of /e/OS experience. This solves one of the major issues with Google-free Android. App Lounge equips /e/OS with the same power as the Google Play Store, but with essential interfaces and tools for managing privacy.
+> App Lounge is an important part of /e/OS experience. This solves one of the major issues with Google-free Android. App Lounge equips /e/OS with the same power as the Google Play Store, but with essential interfaces and tools for managing privacy.
 
 ![](img/appl_intandsearch.webp)
 **Browse or search for your favorite apps**
@@ -136,7 +141,7 @@ Users can access apps that they previously purchased using a Google Play account
 
 ![](img/introadvprv.webp)
 
-We designed Advanced Privacy to provide ultimate control of user privacy. It provides users with a UI and UX that will allow them to understand and take actions without knowing anything technical.
+> We designed Advanced Privacy to provide ultimate control of user privacy. It provides users with a UI and UX that will allow them to understand and take actions regarding privacy, without knowing anything technical.
 
 ![](img/advprv_maincontrol.webp)
 **Easy to control UI**
