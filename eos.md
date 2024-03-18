@@ -2,6 +2,7 @@
 layout: default
 title: Designing /e/OS
 description: Bringing users home
+image: img/eosseocard.webp
 ---
 ![](img/eOS_banner_wide.webp)
 
