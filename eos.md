@@ -4,6 +4,26 @@ title: Designing /e/OS
 description: Bringing users home
 image: img/eosseocard.webp
 ---
+**Table of contents:**
+
+1. [Preface](#preface)
+2. [Objective](#objective)
+3. [Research](#research)
+4. [Proposed Solutions](#proposed-solution)
+5. [User-centric Design Process](#user-centric-design-process)
+    - [User Journey Map](#user-journey-map-eos)
+    - [Plotting A Structure](#plotting-a-structure)
+6. [Designing /e/OS](#designing-eos)
+    - [Bliss Launcher](#revamping-home-with-bliss-launcher)
+    - [App Lounge](#providing-users-with-a-fully-featured-app-store-with-app-lounge)
+    - [Advanced Privacy](#providing-granular-control-over-privacy-via-privacy-dashboard)
+    - [Cloud Integration](#giving-users-the-power-of-the-cloud-using-murena-cloud-integration-in-eos)
+7. [Tests And Results](#tests-and-results)
+8. [Challenges](#challenges-i-faced-while-working-on-this-project)
+9. [Ending Note](#ending-note)
+
+## Preface 
+
 ![](img/eOS_banner_wide.webp)
 
 >/e/OS offers privacy without Google but can feel unfamiliar. As a UI/UX designer, I aimed to bridge the gap. Android’s strength is choice, and /e/OS provides a privacy-focused option. However, ditching Google disrupts the usual user experience. Our team tackled this by creating a familiar UI and workflow.
@@ -41,7 +61,7 @@ We sent questionnaires and had direct interviews with our users. We collected hu
 - **Missing crucial settings and management options:** Missing account management, cloud features, backup and sync, and so on. 
 - **Cloud features:** No Google Drive and Google One-like functionalities that backup photos, contacts, and calendars.
 
-## Proposed solution
+## Proposed solutions
 
 After evaluating our team’s strength and size, we decided to take action to solve the problems and we came up with the following solutions:
 
@@ -123,12 +143,12 @@ App Lounge is designed to enable users to Install their favorite apps by browsin
 ![](img/appl_playfdrd.webp)
 **Acess Play Store catalog + F-droid in the same store**
 
-To provide Google-free alternative, sources like F-droid is used. We designed App Lounge to not only include Google Play Store apps, but also F-droid so users don't have to use two apps, and have an unified experience. It also promotes alternative for Google-dependent appplications. 
+To provide a Google-free alternative, sources like F-droid are used. We designed App Lounge to include Google Play Store apps and F-droid so users don't have to use two apps and have a unified experience. It also promotes alternatives for Google-dependent applications. 
 
 ![](img/appl_prvcscre.webp)
 **Take decision based on reality**
 
-We have brainstormed over effective ways to show our users if an application is privacy friendly in conjunction with user ratings. And we have designed a seperate indicator for how privacy respecting an application is, with scores and explanation.
+We have brainstormed over effective ways to show our users if an application is privacy-friendly in conjunction with user ratings. We have designed a separate indicator for how privacy-respecting an application is, with scores and explanations.
 
 ![](img/appl_purchase.webp)
 **Giving the users power to re-install purchased apps**
@@ -137,7 +157,7 @@ Users can access apps that they previously purchased using a Google Play account
 
 ![](img/apploungeicons.webp)
 
-**Assets:** App Lounge is a big application with tons of components and custom made assets. Here is some of the icons I have designed for App Lounge.
+**Assets:** App Lounge is a big application with tons of components and custom-made assets. Here are some of the icons I have designed for App Lounge.
 
 ### Providing granular control over privacy via Privacy Dashboard
 
@@ -168,9 +188,9 @@ We made sure that users can not only choose to be anonymous on the internet, but
 ![](img/advprv_gps.webp)
 **Hide GPS footprint easily**
 
-We made hiding users’ IP addresses easy with Advanced Privacy, and so is hiding their GPS footprint. Cloak their global position using a random position. You can use the interactive map for a location, or enter a co-ordinate.
+We made hiding users’ IP addresses easy with Advanced Privacy, as does hiding their GPS footprint. Cloak their global position using a random position. You can use the interactive map for a location, or enter a co-ordinate.
 
-### Giving users the power of cloud using Murena Cloud integration in /e/OS
+### Giving users the power of the cloud using Murena Cloud integration in /e/OS
 
 ![](img/accountmgr.webp)
 **Manage Murena Cloud account and synchronization**
