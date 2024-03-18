@@ -56,7 +56,8 @@ For starters, we categorized user types from the survey and made a few kinds of 
 
 |User Riju|User Sidon| User Yunobo|
 |---|---|---|
-| <a href="img/userriju.webp"><img src="img/userriju.webp"></a> | <a href="img/usersidon.webp"><img src="img/usersidon.webp"></a> | <a href="img/useryunobo.webp"><img src="img/useryunobo.webp"></a>|
+| <a href="img/userriju.webp"><img src="img/userriju.webp"></a> | <a href="img/usersidon.webp"><img src="img/usersidon.webp"></a> | <a href="img/useryunobo.webp"><img src="img/useryunobo.webp"></a> |
+
 ---
 _click to view image_
 
