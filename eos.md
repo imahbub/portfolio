@@ -204,11 +204,11 @@ We also designed a Murena Cloud integration flow where the account will sync acr
 
 ## Tests and results
 
-After beta testing and manual QA, /e/OS was out for all users After v1 and v1.5 updates was pushed out respectively, we got back to the user community and also looked at update delivery data. 
+After beta testing and manual QA, /e/OS was out for all users After v1 updates was pushed out, we got back to the user community and also looked at update delivery data. 
 
 - 95%+ opted for the new update for their specific devices
 - Good reviews from partner communities and social media
-- 97%+ Positive response from our interviewed users who updated /e/OS to the newly designed version. 
+- 97%+ Positive first impression from /e/OS users who updated.
 
 ## Challenges I faced while working on this project
 
