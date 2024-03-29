@@ -70,6 +70,8 @@ After evaluating our team’s strength and size, we decided to take action to so
 - **Provide granular control over privacy:** We planned to design a user-friendly and non-technical way to provide granular control over privacy.
 - **Provide cloud features:** To provide access to crucial features like mail, calendar, backups and sync, photo backups, and storage; we, with the help of Murena Cloud, designed ways users can have all the things Google account and Google One do without Google. 
 
+![](/img/objectivebento.webp)
+
 ## User-centric design process
 
 For starters, we categorized user types from the survey and made a few kinds of user personas according to their needs and objectives with /e/OS. Let’s meet our personas:
