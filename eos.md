@@ -32,7 +32,7 @@ Why /e/OS? Because Google Android is not privacy-friendly, the primary objective
 
 <img src="img/animated_hi-res.webp" max-width="450px" height="auto" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-**Animated using After Effects**
+_Animated using After Effects_
 
 >We kept core Android features while incorporating custom solutions for missing Google apps. The result? It is a comfortable experience even for Android switchers. Users get familiar features with the freedom of privacy and control. This unique balance attracts users who value both.
 My roles in this project
