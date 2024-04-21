@@ -213,7 +213,7 @@ After beta testing and manual QA, /e/OS was out for all users After v1 updates w
 - 97%+ Positive first impression from /e/OS users who updated.
 - 95% Of the surveyed users thinks the new update is now capable of replacing their existing google dependent workflow.
 
-We have also gotten a lot of feedback from the things that did not work out as expected. Like missed opportunities, animation, etc. We started working on better research based on those shortcomings. 
+We have also gotten a lot of feedback for the things that did not work out as expected. Like missed opportunities, lack of excitement in some parts, lack of hints for the newly implemented designs, etc. We started working on better research based on those shortcomings. 
 
 ## Challenges I faced while working on this project
 
