@@ -35,6 +35,8 @@ _Terminilogy: "Game" means one of many available games in Ludo Player platform_
 
 Here is the interactive prototype that shows the design
 
+**Note: The spinning wheel animation will not load if you're on slow network, so try doing the flow again to load the animation**
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5dDZ5RireDKsHaNWPKf7XR%2FRewards-Mechanism-LP%3Ftype%3Ddesign%26node-id%3D1-94%26t%3DeTPJFGO1Y0EIG1Rs-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A94%26mode%3Ddesign" allowfullscreen></iframe>
 
 **Static images**
