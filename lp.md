@@ -9,6 +9,12 @@ image: img/lpprevcard.webp
 
 Ludo Player is an online mobile game. The development team was tasked to implement daily check-in and rewards features. I was contracted to make the UI design for the project. 
 
+Project type: Small gig
+
+Project time: 24 hours
+
+Tools used: Figma, Inkscape (for making SVG assets)
+
 ## Objective
 
 The objective is to implement daily check-in and a rewards system for Ludo Player as a method to reward regular gamers and boost commitments. The following problems are presented. 
@@ -36,3 +42,7 @@ Here is the interactive prototype that shows the design
 _Click to zoom_
 
 <a href="img/staticpreview.webp"><img src="img/staticpreview.webp"></a>
+
+## Assets
+
+![assets used in design](/img/assetsLP.webp)
