@@ -7,4 +7,4 @@ description: "A gallery of projects that I have worked on"
 
 [Designing /e/OS - Bringing users home](/eos)
 
-<a href="eos.md"><img src="img/eosseocard.webp" alt="preview card image" width="500px" height="auto"></a>
+<a href="/eos"><img src="img/eosseocard.webp" alt="preview card image" width="500px" height="auto"></a>
