@@ -101,9 +101,13 @@ _click to view image_
 
 We started designing the UI and interaction designs after discussions, whiteboarding and sketching. 
 
+### Revamping home with Bliss Launcher
+
+### Before
+
 ![launcher before it was revamped](/img/launcherbefore.webp)
 
-### Revamping home with Bliss Launcher
+### Revamping Bliss Launcher
 
 ![](img/introeos.webp)
 
@@ -134,6 +138,12 @@ As part of our mission is to provide an integrated system, **App Lounge app inst
 **Assets:** We have done more than the eyes meet in the first look. Lots of **tiny detailing, icons, animations and interactions** were added to make Bliss Launcher look and feel good. Often simplicity is a complex matter.
 
 ### Providing users with a fully featured app store with App Lounge
+
+### Before
+
+![](/img/apploungebefore.webp)
+
+### Revamping App Lounge
 
 ![](img/applounge_bannerIntro.webp)
 
@@ -200,6 +210,11 @@ We made hiding users’ IP addresses easy with Advanced Privacy, as does hiding 
 **Manage Murena Cloud account and synchronization**
 
 With the power of Murena Cloud users can synchronize their data privately across devices without needing a Google account. However, we provided the necessary user experience for when users need to add existing accounts to sync their calendars and other data.
+
+### Before 
+![](/img/defaultappsbefore.webp)
+
+### Redesigning and integrate default apps
 
 ![](img/defaultapps.webp)
 **Sync everything**
