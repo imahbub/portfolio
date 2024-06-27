@@ -44,7 +44,7 @@ My roles in this project
 
 Team:
 
-Mahbub Hasan (myself, Junior UI/UX designer), Rhandros Dembicki (Design lead)
+Mahbub Hasan (myself, UI/UX designer), Rhandros Dembicki (Design lead)
 
 ## Objective
 
@@ -100,6 +100,8 @@ _click to view image_
 ## Designing /e/OS
 
 We started designing the UI and interaction designs after discussions, whiteboarding and sketching. 
+
+![launcher before it was revamped](/img/launcherbefore.webp)
 
 ### Revamping home with Bliss Launcher
 
