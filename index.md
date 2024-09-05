@@ -1,8 +1,11 @@
 ---
 layout: default
-title: "Portfolio"
+title: "Mahbub Hasan"
 description: "A gallery of projects that I have worked on"
 ---
+
+Hi,I'm Mahbub Hasan, a skilled designer. My expertise lies in UI/UX and visual design, but I also have experience in print design, communications design, and application asset/resource design. Below are some of my most notable projects.
+
 # My projects
 
 [UI/UX Design: Designing /e/OS - Bringing users home](/eos)
