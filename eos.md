@@ -74,20 +74,20 @@ After evaluating our team’s strength and size, we decided to take action to so
 
 ## User-centric design process
 
-For starters, we categorized user types from the survey and made a few kinds of user personas according to their needs and objectives with /e/OS. Let’s meet our personas:
+Our approach to the design process was leaner. We have created common points taken from the experience of the users. We analyzed the data and noticed the journey of our user.
+
+### User Journey Map: /e/OS
+
+<a href="img/journeymap.webp"><img src="img/journeymap.webp"></a>
+_click to view image_
+
+We categorized user types from the survey and made a few kinds of user personas according to their needs and objectives with /e/OS. Let’s meet our personas:
 
 |User Riju|User Sidon| User Yunobo|
 |---|---|---|
 | <a href="img/userriju.webp"><img src="img/userriju.webp"></a> | <a href="img/usersidon.webp"><img src="img/usersidon.webp"></a> | <a href="img/useryunobo.webp"><img src="img/useryunobo.webp"></a> |
 
 ---
-_click to view image_
-
-We have created common points taken from the experience of the users. We have made the persona Riju as our proto persona analyzing the data and we have noted the emotional experience they have gone through.
-
-### User Journey Map: /e/OS
-
-<a href="img/journeymap.webp"><img src="img/journeymap.webp"></a>
 _click to view image_
 
 ### Plotting a structure
