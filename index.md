@@ -22,6 +22,16 @@ Seal VPN is an internal security tool designed to replace a complex and unfriend
 
 <a href="/sealvpn"><img src="img/sealvpnseocard.webp" alt="preview card image Seal VPN" width="500px" height="auto"></a>
 
+---
+
+[Yardly - Connects the neighborhood](/yardly)
+
+Designing a mobile app to help urban residents build meaningful connections in their immediate vicinity.
+
+<a href="/yardly"><img src="img/yardly1x4.webp" width="500px" height="auto">
+
+---
+
 
 ## Other small design projects
 

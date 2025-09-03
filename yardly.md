@@ -2,7 +2,7 @@
 layout: default
 title: Designing /e/OS
 description: Bringing users home
-image: img/yardlyseocard.webp
+image: img/yardly.webp
 ---
 
 ## Yardly: A Case Study in Fostering Local Community
